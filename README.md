@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emoonlit" alt="emoonlit" /></a> </p>
 
-- 🌱 I’m currently learning **web development on Trybe**
+- 🔭 I’m currently working on chatbot development at **[Take Blip](https://www.take.net/en/home/).**
 
-- 💬 Ask me about **JavaScript, NodeJS, ReactJS, JEST, TDD, API's.**
+- 💬 Ask me about **JavaScript, NodeJS, ReactJS, JEST, C#, .NET, ASP.NET, TDD, API's.**
 
 - 📫 How to reach me **emoonlit@gmail.com**
 
