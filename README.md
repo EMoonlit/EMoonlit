@@ -7,7 +7,11 @@
 
 - 💬 Ask me about **JavaScript, NodeJS, ReactJS, JEST, C#, .NET, ASP.NET, TDD, API's.**
 
-- 📫 How to reach me **emoonlit@gmail.com**
+- 🌱 I’m currently learning, **Rust** and **design patterns**.
+
+- 🤔 I'm looking for help with career advancement.
+
+- 📫 How to reach me, **[Linkedin](https://www.linkedin.com/in/emoonlit/)** or **emoonlit@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
