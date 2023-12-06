@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Emerson!</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on chatbot development at **[Take Blip](https://www.take.net/en/home/).**
+- 🔭 I’m currently working on chatbot development at **[Blip](https://www.blip.ai/en/).** 
 
-- 💬 Ask me about **JavaScript, NodeJS, ReactJS, JEST, C#, .NET, ASP.NET, TDD, API's.**
+- 💬 Ask me about **JavaScript, NodeJS, ReactJS, JEST, C#, .NET, ASP.NET, SQL, NoSQL, TDD, API's and Coffe.**
 
-- 🌱 I’m currently learning, **Rust** and **design patterns**.
+- 🌱 I’m currently studying, **Go** and applying **design patterns** to personal projects. 
 
 - 🤔 I'm looking for help with career advancement.
 
-- 📫 How to reach me, **[Linkedin](https://www.linkedin.com/in/emoonlit/)** or **emoonlit@gmail.com**.
+- 📫 How to reach me, **[Linkedin](https://www.linkedin.com/in/emoonlit/)**, email: **emoonlit@gmail.com** or my [frontend lab](https://emoonlit.dev/).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
