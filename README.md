@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emerson!</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on chatbot development at **[Blip](https://www.blip.ai/en/).** 
+- 🔭 I’m currently working on backend and chatbot development at **[Proa.ai](https://proa.ai/).**
 
-- 💬 Ask me about **JavaScript, NodeJS, ReactJS, JEST, C#, .NET, ASP.NET, SQL, NoSQL, TDD, API's and Coffe.**
+- 💬 Ask me about **JavaScript, NodeJS, JEST, C#, .NET, ASP.NET, GO, SQL, NoSQL, TDD, API's and Coffe.**
 
 - 🌱 I’m currently studying, **Go** and applying **design patterns** to personal projects. 
 
